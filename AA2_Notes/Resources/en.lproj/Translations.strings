@@ -1,0 +1,15 @@
+/* 
+  Translations.strings
+  AA2_Notes
+
+  Created by Marc Ramis on 19/5/23.
+  
+*/
+
+"Hello World" = "Hello World";
+"I skate over Eric" = "I skate over Eric";
+"Notes" = "Notes";
+"Edit" = "Edit";
+"View" = "View";
+"Save" = "Save";
+"Delete" = "Delete";
